@@ -1,6 +1,6 @@
 function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hello ${name}, from Dev_2!`;
 }
 
-console.log(greet("World"));
+console.log(greet("Team"));
 
