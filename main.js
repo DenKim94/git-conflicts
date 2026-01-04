@@ -1,6 +1,11 @@
+// main.js
+const arr = [1, 2, 3, 5];
+arr[8] = 9;
+
+
 function greet(name) {
-  return `Hello, ${name}!`;
+  return `Hello, ${name} (from Dev_1)!`;
 }
 
-console.log(greet("World"));
-
+console.log(greet("Developer"));
+console.log(arr);
